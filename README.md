@@ -1,2 +1,2 @@
-# My--smart-contracts-
-KMARS TOKEN
+# My-smart-contracts-
+ KMARS-TOKEN$
